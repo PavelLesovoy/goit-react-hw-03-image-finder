@@ -1,3 +1,4 @@
-.loader {
-  display: 1;
+.Dot_loader {
+  display: flex;
+  justify-content: center;
 }
